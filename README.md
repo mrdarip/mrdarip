@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrdarip
-- 👀 I’m interested in coding in c , cpp and c#; i dont like at all python
-- 🌱 I’m currently learning unity and c++, and when i have a grat idea, i code for arduino
+- 👀 I’m interested in coding in C , C++ and C#; I dont like python at all
+- 🌱 I’m currently learning Unity and C++, when I have a grat idea, I code for Arduino.
 - 💞️ I’m looking to collaborate on whatever learning experience that is offered to me
 - 📫 How to reach me: DM me instagram maybe @mrdarip
 
