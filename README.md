@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mrdarip
-- 👀 I’m interested in coding in C , C++ and C#.
-- 🌱 I’m currently learning Unity and C++, when I have a great idea, I code for Arduino.
-- 💞️ I’m looking to collaborate on whatever learning experience that is offered to me
-- 📫 How to reach me: DM me instagram @mrdarip
+[![mrdarip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdarip)](https://github.com/mrdarip/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdarip)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mrdarip)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mrdarip/mrdarip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
